@@ -1,4 +1,4 @@
-## **Critères d’évaluation Coding Weeks**
+## **Critères d’évaluation code Coding Weeks**
 
 ### 1. **Documentation & Langue**
 
